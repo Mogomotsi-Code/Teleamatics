@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj",
+        "projectName": "SighthingData.Android",
+        "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj",
+        "packagesPath": "/Users/mogomotsimodise/.nuget/packages/",
+        "outputPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/mogomotsimodise/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj": {
+                "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Prism.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1451, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj": {
+      "restore": {
+        "projectUniqueName": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj",
+        "projectName": "SighthingData.Models",
+        "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj"
+      },
+      "frameworks": {
+        "portable45-net45+win8+wpa81": {}
+      }
+    },
+    "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj",
+        "projectName": "SighthingData",
+        "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj",
+        "packagesPath": "/Users/mogomotsimodise/.nuget/packages/",
+        "outputPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mogomotsimodise/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj": {
+                "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Prism.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[8.0.0.1909, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.8.0.1451, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

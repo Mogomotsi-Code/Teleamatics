@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.SightingData.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SighthingData/Services/TelematricsService.cs">
+    <Files>
+      <File FileName="SighthingData.Models/Device.cs" Line="13" Column="37" />
+      <File FileName="SightingDataApi/Controllers/DeviceStatsController.cs" Line="17" Column="20" />
+      <File FileName="SightingDataApi/Startup.cs" Line="55" Column="1" />
+      <File FileName="SighthingData/Services/ITematrics.cs" Line="10" Column="16" />
+      <File FileName="SighthingData/Services/TelematricsService.cs" Line="30" Column="18" />
+      <File FileName="SighthingData/Constants/Enpoints.cs" Line="7" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SighthingData" expanded="True">
+            <Node name="SighthingData" expanded="True" />
+            <Node name="SightingData.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{631E896F-865D-41C5-82FE-CB326AE8DAA3}" ItemName="SighthingData.Android" ConfigurationId="Default" />
+        <StartupItem ItemId="{21022538-2734-4926-B653-C5C5E359BFA0}" ItemName="SightingData.Api" ConfigurationId="SightingDataApi" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.SighthingData.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
+</Properties>
