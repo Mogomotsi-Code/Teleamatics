@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SightingData.Api", "Sightin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SighthingData.Models", "SighthingData.Models\SighthingData.Models.csproj", "{E9F23D78-8333-4A94-88AC-8C961162A201}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SighthingData.Visualizer", "SighthingData.Visualizer\SighthingData.Visualizer.csproj", "{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{E9F23D78-8333-4A94-88AC-8C961162A201}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{E9F23D78-8333-4A94-88AC-8C961162A201}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{E9F23D78-8333-4A94-88AC-8C961162A201}.Release|iPhone.Build.0 = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{D9339BCE-387A-410C-ACF4-09BA80F4A1FF}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

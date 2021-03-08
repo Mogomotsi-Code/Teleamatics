@@ -33,9 +33,6 @@
           "lib/netstandard2.0/Prism.Forms.dll": {}
         }
       },
-      "Prism.Unity/8.0.0.1909": {
-        "type": "package"
-      },
       "Prism.Unity.Forms/8.0.0.1909": {
         "type": "package",
         "dependencies": {
@@ -880,7 +877,6 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
           "Prism.Forms": "8.0.0.1909",
-          "Prism.Unity": "8.0.0.1909",
           "Prism.Unity.Forms": "8.0.0.1909",
           "SighthingData.Models": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
@@ -972,31 +968,6 @@
         "prism-logo.png",
         "prism.forms.8.0.0.1909.nupkg.sha512",
         "prism.forms.nuspec"
-      ]
-    },
-    "Prism.Unity/8.0.0.1909": {
-      "sha512": "5WO7gvzQUkqxhJi0Ff+aCv3SSn0H4Eigk/yn4HPnNrQFoHzQJ5L1dtvyBcBP3zxrH/C3XXCfbl/4gikMVd/0MA==",
-      "type": "package",
-      "path": "prism.unity/8.0.0.1909",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "lib/net461/Prism.Unity.Wpf.dll",
-        "lib/net461/Prism.Unity.Wpf.pdb",
-        "lib/net461/Prism.Unity.Wpf.xml",
-        "lib/net47/Prism.Unity.Wpf.dll",
-        "lib/net47/Prism.Unity.Wpf.pdb",
-        "lib/net47/Prism.Unity.Wpf.xml",
-        "lib/net48/Prism.Unity.Wpf.dll",
-        "lib/net48/Prism.Unity.Wpf.pdb",
-        "lib/net48/Prism.Unity.Wpf.xml",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.dll",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.pdb",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.xml",
-        "prism-logo.png",
-        "prism.unity.8.0.0.1909.nupkg.sha512",
-        "prism.unity.nuspec"
       ]
     },
     "Prism.Unity.Forms/8.0.0.1909": {
@@ -2329,16 +2300,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with monoandroid90 (MonoAndroid,Version=v9.0). Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "MonoAndroid,Version=v9.0"
-      ]
-    }
-  ]
+  }
 }

@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Heatmaps";
+}
+<div class="container">
+    <div class="row">
+        <div id="floating-panel">
+            <button onclick="toggleHeatmap()">Toggle Heatmap</button>
+            <button onclick="changeGradient()">Change gradient</button>
+            <button onclick="changeRadius()">Change radius</button>
+            <button onclick="changeOpacity()">Change opacity</button>
+        </div>
+    </div>
+    <div class="row">
+
+        <div id="map"></div>
+    </div>
+
+</div>
+
+
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC7NhBotc4CAaKc2X8gRQyeARo7jZFFlTQ&callback=initMap&libraries=visualization&v=weekly"
+        async></script>

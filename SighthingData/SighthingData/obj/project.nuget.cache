@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S5fP4H7AS/GClNFCf5io2WRJTf0HnPLUuBcqq6X+NEWaAVj24i/wvW3zHDGZWu6wtKNlWQOSzOjbR/TnxO6WGA==",
+  "dgSpecHash": "dRTBC+8P4IGzEzFaB+ohZITyWb7E6FmBTnUr2AmkhAkOHSVN4cZ94qZjWy/DyXV5zCiQw95s9pI8+H2ZOfPiWA==",
   "success": true,
   "projectFilePath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/SighthingData.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,6 @@
     "/Users/mogomotsimodise/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
-    "/Users/mogomotsimodise/.nuget/packages/prism.unity/8.0.0.1909/prism.unity.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
@@ -19,16 +18,5 @@
     "/Users/mogomotsimodise/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Prism.Unity 8.0.0.1909' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -23,7 +23,7 @@ namespace SighthingData.Services
 
             try
             {
-                var results  = await _client.GetAsync(Enpoints.DEVICE_STATS);
+                var results  = await _client.GetAsync($"{Enpoints.DEVICE_STATS}");
                 if(results.StatusCode.Equals(HttpStatusCode.OK))
                 {
                     return JsonConvert.DeserializeObject<List<Device>>( await results.Content.ReadAsStringAsync());

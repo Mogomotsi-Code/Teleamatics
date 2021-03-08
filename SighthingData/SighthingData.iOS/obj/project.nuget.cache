@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tL5BcCBR+4okJpmlw5f+VjyTjeTzh6HHVljvSVTuu4kqedXvGfW1Mdv1nSlOKZHfMU9rNP+cxCNW7kolmnAbxw==",
-  "success": false,
+  "dgSpecHash": "o9WH5PzkFi+4qSfeIfkmOW4rmCRQqm4ENEoeB6AwrFvCGYhxk4P+tRj+UJDIISM0UFpZQNEw8vhl+crZmQc1NQ==",
+  "success": true,
   "projectFilePath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.iOS/SighthingData.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/mogomotsimodise/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
-    "/Users/mogomotsimodise/.nuget/packages/prism.unity/8.0.0.1909/prism.unity.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
@@ -16,42 +15,5 @@
     "/Users/mogomotsimodise/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0). Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0"
-      ]
-    },
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win. Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0/win"
-      ]
-    },
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x64. Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0/win-x64"
-      ]
-    },
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with xamarinios10 (Xamarin.iOS,Version=v1.0) / win-x86. Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  "logs": []
 }

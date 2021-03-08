@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "mRdKzetTAQnbdvFGkjFa1mAeItfdEAvvSoa6vJqUho/TFNrTdl6vUfyFg9bQQH1SmHvglTjIGY9IzgqfAI8OTQ==",
-  "success": false,
+  "dgSpecHash": "wRJiNtV9xFArhZkedNSP1/YQ6CUgxQ9daavj9NmbHGt5Y/NepcYU2ND85hU8EQCqe88SuFANM2OEzVtMQjr2zg==",
+  "success": true,
   "projectFilePath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj",
   "expectedPackageFiles": [
     "/Users/mogomotsimodise/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
-    "/Users/mogomotsimodise/.nuget/packages/prism.unity/8.0.0.1909/prism.unity.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
@@ -53,15 +52,5 @@
     "/Users/mogomotsimodise/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1202",
-      "level": "Error",
-      "message": "Package Prism.Unity 8.0.0.1909 is not compatible with monoandroid90 (MonoAndroid,Version=v9.0). Package Prism.Unity 8.0.0.1909 supports:\n  - net461 (.NETFramework,Version=v4.6.1)\n  - net47 (.NETFramework,Version=v4.7)\n  - net48 (.NETFramework,Version=v4.8)\n  - netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        "MonoAndroid,Version=v9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -1,28 +1,28 @@
 ﻿using System;
+using Prism.Ioc;
+using Prism.Unity;
+using SighthingData.Constants;
+using SighthingData.Services;
+using SighthingData.ViewModels;
+using SighthingData.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace SighthingData
 {
-    public partial class App : Application
+    public partial class App : PrismApplication
     {
-        public App()
+        protected override async void OnInitialized()
         {
             InitializeComponent();
-
-            MainPage = new MainPage();
+             await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.HEATMAP_PAGE}");
         }
 
-        protected override void OnStart()
+        protected override void RegisterTypes(IContainerRegistry containerRegistry)
         {
-        }
-
-        protected override void OnSleep()
-        {
-        }
-
-        protected override void OnResume()
-        {
+            containerRegistry.RegisterSingleton<ITematricsService, TelematricsService>();
+            containerRegistry.RegisterForNavigation<NavigationPage>();
+            containerRegistry.RegisterForNavigation<HeatMapPage, HeatMapPageViewModel>();
         }
     }
 }

@@ -129,10 +129,6 @@
               "target": "Package",
               "version": "[8.0.0.1909, )"
             },
-            "Prism.Unity": {
-              "target": "Package",
-              "version": "[8.0.0.1909, )"
-            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[8.0.0.1909, )"

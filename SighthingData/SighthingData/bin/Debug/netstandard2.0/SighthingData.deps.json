@@ -12,7 +12,6 @@
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3",
           "Prism.Forms": "8.0.0.1909",
-          "Prism.Unity": "8.0.0.1909",
           "Prism.Unity.Forms": "8.0.0.1909",
           "SighthingData.Models": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
@@ -51,14 +50,6 @@
         },
         "runtime": {
           "lib/netstandard2.0/Prism.Forms.dll": {
-            "assemblyVersion": "8.0.0.1909",
-            "fileVersion": "8.0.0.1909"
-          }
-        }
-      },
-      "Prism.Unity/8.0.0.1909": {
-        "runtime": {
-          "lib/net461/Prism.Unity.Wpf.dll": {
             "assemblyVersion": "8.0.0.1909",
             "fileVersion": "8.0.0.1909"
           }
@@ -200,13 +191,6 @@
       "sha512": "sha512-2uIqQjggiURO4CKJzH+gYHkbuKDtVQiSyoUIdvVRx+hFYyU0cwDG7uzB9EBQwTZMk3R8/ulF0pXbQg2aoMnGdA==",
       "path": "prism.forms/8.0.0.1909",
       "hashPath": "prism.forms.8.0.0.1909.nupkg.sha512"
-    },
-    "Prism.Unity/8.0.0.1909": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-5WO7gvzQUkqxhJi0Ff+aCv3SSn0H4Eigk/yn4HPnNrQFoHzQJ5L1dtvyBcBP3zxrH/C3XXCfbl/4gikMVd/0MA==",
-      "path": "prism.unity/8.0.0.1909",
-      "hashPath": "prism.unity.8.0.0.1909.nupkg.sha512"
     },
     "Prism.Unity.Forms/8.0.0.1909": {
       "type": "package",

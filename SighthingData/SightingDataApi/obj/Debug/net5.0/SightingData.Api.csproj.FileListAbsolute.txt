@@ -12,7 +12,6 @@
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/SighthingData.Models.dll
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/SighthingData.Models.pdb
-/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.csprojAssemblyReference.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.AssemblyInfoInputs.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.AssemblyInfo.cs
@@ -28,3 +27,10 @@
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/ref/SightingData.Api.dll
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.pdb
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.genruntimeconfig.cache
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/System.Web.Cors.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/System.Net.Http.Formatting.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/System.Web.Http.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/System.Web.Http.Cors.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/bin/Debug/net5.0/Newtonsoft.Json.Bson.dll
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/obj/Debug/net5.0/SightingData.Api.csprojAssemblyReference.cache

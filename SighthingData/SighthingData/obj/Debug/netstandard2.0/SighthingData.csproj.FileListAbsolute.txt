@@ -6,7 +6,7 @@
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/bin/Debug/netstandard2.0/SighthingData.Models.pdb
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/SighthingData.csprojAssemblyReference.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/Views/HeatMapPage.xaml.g.cs
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/SighthingData.AssemblyInfoInputs.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/SighthingData.AssemblyInfo.cs
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/obj/Debug/netstandard2.0/SighthingData.csproj.CoreCompileInputs.cache

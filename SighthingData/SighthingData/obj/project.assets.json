@@ -57,15 +57,6 @@
           "lib/netstandard2.0/Prism.Forms.dll": {}
         }
       },
-      "Prism.Unity/8.0.0.1909": {
-        "type": "package",
-        "compile": {
-          "lib/net461/Prism.Unity.Wpf.dll": {}
-        },
-        "runtime": {
-          "lib/net461/Prism.Unity.Wpf.dll": {}
-        }
-      },
       "Prism.Unity.Forms/8.0.0.1909": {
         "type": "package",
         "dependencies": {
@@ -386,31 +377,6 @@
         "prism-logo.png",
         "prism.forms.8.0.0.1909.nupkg.sha512",
         "prism.forms.nuspec"
-      ]
-    },
-    "Prism.Unity/8.0.0.1909": {
-      "sha512": "5WO7gvzQUkqxhJi0Ff+aCv3SSn0H4Eigk/yn4HPnNrQFoHzQJ5L1dtvyBcBP3zxrH/C3XXCfbl/4gikMVd/0MA==",
-      "type": "package",
-      "path": "prism.unity/8.0.0.1909",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "lib/net461/Prism.Unity.Wpf.dll",
-        "lib/net461/Prism.Unity.Wpf.pdb",
-        "lib/net461/Prism.Unity.Wpf.xml",
-        "lib/net47/Prism.Unity.Wpf.dll",
-        "lib/net47/Prism.Unity.Wpf.pdb",
-        "lib/net47/Prism.Unity.Wpf.xml",
-        "lib/net48/Prism.Unity.Wpf.dll",
-        "lib/net48/Prism.Unity.Wpf.pdb",
-        "lib/net48/Prism.Unity.Wpf.xml",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.dll",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.pdb",
-        "lib/netcoreapp3.1/Prism.Unity.Wpf.xml",
-        "prism-logo.png",
-        "prism.unity.8.0.0.1909.nupkg.sha512",
-        "prism.unity.nuspec"
       ]
     },
     "Prism.Unity.Forms/8.0.0.1909": {
@@ -973,7 +939,6 @@
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 12.0.3",
       "Prism.Forms >= 8.0.0.1909",
-      "Prism.Unity >= 8.0.0.1909",
       "Prism.Unity.Forms >= 8.0.0.1909",
       "SighthingData.Models >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
@@ -1035,10 +1000,6 @@
             "target": "Package",
             "version": "[8.0.0.1909, )"
           },
-          "Prism.Unity": {
-            "target": "Package",
-            "version": "[8.0.0.1909, )"
-          },
           "Prism.Unity.Forms": {
             "target": "Package",
             "version": "[8.0.0.1909, )"
@@ -1065,17 +1026,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Prism.Unity 8.0.0.1909' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Prism.Unity",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
