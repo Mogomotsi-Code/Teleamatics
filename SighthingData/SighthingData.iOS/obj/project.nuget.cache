@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "o9WH5PzkFi+4qSfeIfkmOW4rmCRQqm4ENEoeB6AwrFvCGYhxk4P+tRj+UJDIISM0UFpZQNEw8vhl+crZmQc1NQ==",
+  "dgSpecHash": "yEjdfHPfAAhDHGU/QS8/wzA19cPLA2PgC2Vf3GvHDS2EqdzeMPTVDqvhtxugq0Tf78yqlATi+t70zABv+wCNyQ==",
   "success": true,
   "projectFilePath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.iOS/SighthingData.iOS.csproj",
   "expectedPackageFiles": [
     "/Users/mogomotsimodise/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mogomotsimodise/.nuget/packages/plugin.ble/2.1.1/plugin.ble.2.1.1.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",

@@ -62,6 +62,10 @@
               "target": "Package",
               "version": "[12.0.3, )"
             },
+            "Plugin.BLE": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
             "Prism.Forms": {
               "target": "Package",
               "version": "[8.0.0.1909, )"

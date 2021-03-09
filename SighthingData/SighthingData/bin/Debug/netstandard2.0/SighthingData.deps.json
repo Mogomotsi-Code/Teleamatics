@@ -11,6 +11,7 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3",
+          "Plugin.BLE": "2.1.1",
           "Prism.Forms": "8.0.0.1909",
           "Prism.Unity.Forms": "8.0.0.1909",
           "SighthingData.Models": "1.0.0",
@@ -32,6 +33,18 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "12.0.0.0",
             "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Plugin.BLE/2.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Plugin.BLE.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -177,6 +190,13 @@
       "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Plugin.BLE/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kVEP+SA/QFMR72YgcvcebwCXfVsiKrD6pF7wn0JCwjunriBmCjnNQfLyVmhxGE24jjS4bDJfeOiDv8dA+k/Psg==",
+      "path": "plugin.ble/2.1.1",
+      "hashPath": "plugin.ble.2.1.1.nupkg.sha512"
     },
     "Prism.Core/8.0.0.1909": {
       "type": "package",

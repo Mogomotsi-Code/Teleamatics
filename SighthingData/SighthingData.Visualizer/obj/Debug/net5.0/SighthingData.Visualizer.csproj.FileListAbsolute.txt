@@ -36,3 +36,4 @@
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Visualizer/obj/Debug/net5.0/SighthingData.Visualizer.pdb
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Visualizer/obj/Debug/net5.0/SighthingData.Visualizer.genruntimeconfig.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Visualizer/obj/Debug/net5.0/SighthingData.Visualizer.csproj.CopyComplete
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Visualizer/obj/Debug/net5.0/SighthingData.Visualizer.csprojAssemblyReference.cache

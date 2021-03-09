@@ -15,7 +15,7 @@ namespace SighthingData
         protected override async void OnInitialized()
         {
             InitializeComponent();
-             await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.HEATMAP_PAGE}");
+             await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.BLUETOOTH_DEVICES_PAGE}");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -23,6 +23,7 @@ namespace SighthingData
             containerRegistry.RegisterSingleton<ITematricsService, TelematricsService>();
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<HeatMapPage, HeatMapPageViewModel>();
+            containerRegistry.RegisterForNavigation<BluetoothDevicesPage, BluetoothDevicesPageViewModel>();
         }
     }
 }

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wRJiNtV9xFArhZkedNSP1/YQ6CUgxQ9daavj9NmbHGt5Y/NepcYU2ND85hU8EQCqe88SuFANM2OEzVtMQjr2zg==",
+  "dgSpecHash": "opA8ciSJcRzTNnmRqzqj9TP7E7ga7EfGzt5hQz2DeRTz0h8ba+F+LeN2Su9vl9QNPkzX6yfYEj456v6a8pjg0Q==",
   "success": true,
   "projectFilePath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Android/SighthingData.Android.csproj",
   "expectedPackageFiles": [
     "/Users/mogomotsimodise/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/mogomotsimodise/.nuget/packages/plugin.ble/2.1.1/plugin.ble.2.1.1.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.core/8.0.0.1909/prism.core.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.forms/8.0.0.1909/prism.forms.8.0.0.1909.nupkg.sha512",
     "/Users/mogomotsimodise/.nuget/packages/prism.unity.forms/8.0.0.1909/prism.unity.forms.8.0.0.1909.nupkg.sha512",

@@ -132,6 +132,9 @@
     <PackageReference Include="Prism.Forms">
       <Version>8.0.0.1909</Version>
     </PackageReference>
+    <PackageReference Include="Plugin.BLE">
+      <Version>2.1.1</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
