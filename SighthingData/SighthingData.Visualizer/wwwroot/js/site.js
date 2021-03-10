@@ -7,7 +7,7 @@ var devices = [];
 
 function initMap() {
     $.ajax({
-        url: "https://localhost:15618/DeviceStats", success: function (result) {
+        url: "http://localhost:30574/DeviceStats", success: function (result) {
             var index = 0;
             for (var i = 0; i < result.length; i++) {
                 devices.push(new google.maps.LatLng(result[i].lat, result[i].lon));
@@ -15,7 +15,7 @@ function initMap() {
                     index = i;
             }
             map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 13,
+                zoom: 2,
                 center: { lat: parseInt(result[index].lat), lng: parseInt(result[index].lon)},
                 mapTypeId: "satellite",
             });

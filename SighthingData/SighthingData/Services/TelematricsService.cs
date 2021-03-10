@@ -15,7 +15,9 @@ namespace SighthingData.Services
         public TelematricsService()
         {
             _client = new HttpClient();
-            _client.BaseAddress = new Uri(Enpoints.BASE_URL);
+           _client.BaseAddress = new Uri(Enpoints.BASE_URL);
+            _client.DefaultRequestHeaders.Add("Accept", "application/json");
+
         }
 
         public async Task<List<Device>> GetDeviceData()

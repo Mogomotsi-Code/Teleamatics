@@ -1,6 +1,6 @@
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/bin/Debug/SighthingData.Models.dll
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/bin/Debug/SighthingData.Models.pdb
-/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/obj/Debug/SighthingData.Models.csprojAssemblyReference.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/obj/Debug/SighthingData.Models.csproj.CoreCompileInputs.cache
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/obj/Debug/SighthingData.Models.dll
 /Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/obj/Debug/SighthingData.Models.pdb
+/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/obj/Debug/SighthingData.Models.csprojAssemblyReference.cache

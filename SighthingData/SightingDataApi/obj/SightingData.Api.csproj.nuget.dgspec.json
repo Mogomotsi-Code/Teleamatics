@@ -4,16 +4,6 @@
     "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/SightingData.Api.csproj": {}
   },
   "projects": {
-    "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj": {
-      "restore": {
-        "projectUniqueName": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj",
-        "projectName": "SighthingData.Models",
-        "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj"
-      },
-      "frameworks": {
-        "portable45-net45+win8+wpa81": {}
-      }
-    },
     "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/SightingData.Api.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -35,11 +25,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj": {
-                "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -1546,15 +1546,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
-      },
-      "SighthingData.Models/1.0.0": {
-        "type": "project",
-        "compile": {
-          "bin/placeholder/SighthingData.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SighthingData.Models.dll": {}
-        }
       }
     }
   },
@@ -5541,17 +5532,11 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
-    },
-    "SighthingData.Models/1.0.0": {
-      "type": "project",
-      "path": "../SighthingData.Models/SighthingData.Models.csproj",
-      "msbuildProject": "../SighthingData.Models/SighthingData.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNet.WebApi.Cors >= 5.2.7",
-      "SighthingData.Models >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.1.0"
     ]
   },
@@ -5579,11 +5564,7 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {
-            "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj": {
-              "projectPath": "/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData.Models/SighthingData.Models.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

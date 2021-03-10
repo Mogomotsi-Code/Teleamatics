@@ -4,7 +4,7 @@
     <ContentPage.Content>
             <StackLayout Orientation="Vertical" VerticalOptions="Start">
                 <Label Text="Bluetooth Devices Nearby" FontSize="Large" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"/>
-                <ActivityIndicator IsVisible="{Binding IsBusy,Mode=TwoWay}"   Color="Black"/>
+                <ActivityIndicator IsVisible="{Binding IsBusy,Mode=TwoWay}"   Color="#00A5F2"/>
                  <ListView ItemsSource="{Binding BluetoothDevices,Mode=TwoWay}" HorizontalOptions="FillAndExpand">
                 <ListView.ItemTemplate>
                     <DataTemplate>
@@ -18,7 +18,7 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-                <Button Text="Scan" BackgroundColor="CadetBlue" Command="{Binding ScanCommand}" TextColor="White"/>
+                <Button Text="Scan" BackgroundColor="#00A5F2" Command="{Binding ScanCommand}" TextColor="White"/>
             </StackLayout>
            
     </ContentPage.Content>

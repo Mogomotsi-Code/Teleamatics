@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Web.Http.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualBasic.FileIO;
-using SighthingData.Models;
+using SightingData.Api.Models;
 
 namespace SightingData.Api.Controllers
 {

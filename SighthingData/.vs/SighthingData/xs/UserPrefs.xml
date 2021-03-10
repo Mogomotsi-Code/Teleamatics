@@ -1,47 +1,48 @@
 ﻿<Properties StartupConfiguration="{631E896F-865D-41C5-82FE-CB326AE8DAA3}|Default">
   <MonoDevelop.Ide.ItemProperties.SighthingData.Visualizer PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.ItemProperties.SightingData.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SighthingData.Visualizer/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SighthingData/Constants/Enpoints.cs">
     <Files>
-      <File FileName="SighthingData/ViewModels/BluetoothDevicesPageViewModel.cs" Line="39" Column="22" IsPinned="True" />
-      <File FileName="SightingDataApi/Controllers/DeviceStatsController.cs" Line="52" Column="52" />
-      <File FileName="SightingDataApi/Startup.cs" Line="55" Column="36" />
-      <File FileName="SighthingData/Services/ITematrics.cs" />
-      <File FileName="SighthingData/Services/TelematricsService.cs" />
-      <File FileName="SighthingData/App.xaml.cs" Line="18" Column="108" />
-      <File FileName="SighthingData/Views/HeatMapPage.xaml" />
-      <File FileName="SighthingData/Views/HeatMapPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SighthingData/Views/HeatMapPage.xaml" Line="8" Column="9" />
+      <File FileName="SighthingData/Views/HeatMapPage.xaml.cs" />
       <File FileName="SighthingData/ViewModels/HeatMapPageViewModel.cs" />
-      <File FileName="SighthingData/Constants/Pages.cs" Line="8" Column="51" />
-      <File FileName="SighthingData/Constants/Enpoints.cs" />
-      <File FileName="SighthingData.Visualizer/Views/Home/Index.cshtml" Line="15" Column="22" />
+      <File FileName="SighthingData/Constants/Pages.cs" />
+      <File FileName="SighthingData/Constants/Enpoints.cs" Line="6" Column="41" />
+      <File FileName="SighthingData.Visualizer/Views/Home/Index.cshtml" />
       <File FileName="SighthingData.Visualizer/Views/Shared/_Layout.cshtml" />
-      <File FileName="SighthingData.Visualizer/wwwroot/js/site.js" Line="55" Column="59" />
+      <File FileName="SighthingData.Visualizer/wwwroot/js/site.js" />
       <File FileName="SighthingData.Visualizer/wwwroot/css/site.css" />
-      <File FileName="SightingDataApi/Program.cs" Line="16" Column="1" />
-      <File FileName="SighthingData.Models/Device.cs" Line="4" Column="18" />
-      <File FileName="SighthingData/Views/BluetoothDevicesPage.xaml" Line="13" Column="60" />
-      <File FileName="SighthingData/Views/BluetoothDevicesPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="SightingDataApi/Program.cs" />
+      <File FileName="SighthingData/Views/BluetoothDevicesPage.xaml" Line="18" Column="36" />
+      <File FileName="SighthingData/Views/BluetoothDevicesPage.xaml.cs" />
       <File FileName="SighthingData.Android/Properties/AndroidManifest.xml" />
-      <File FileName="SighthingData.Visualizer/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="SighthingData.Visualizer/Controllers/HomeController.cs" />
+      <File FileName="SightingDataApi/Properties/launchSettings.json" />
+      <File FileName="SightingDataApi/appsettings.json" />
+      <File FileName="README.md" Line="15" Column="15" />
+      <File FileName="SightingDataApi/SightingData.Api.csproj" />
+      <File FileName="SighthingData.Android/Properties/AssemblyInfo.cs" />
+      <File FileName="SighthingData/App.xaml.cs" />
+      <File FileName="SighthingData/App.xaml" />
+      <File FileName="SighthingData/Services/TelematricsService.cs" Line="18" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SighthingData" expanded="True">
-            <Node name="SighthingData.Visualizer" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+            <Node name="Solution Items" expanded="True" />
+            <Node name="SighthingData" expanded="True">
+              <Node name="Constants" expanded="True">
+                <Node name="Enpoints.cs" selected="True" />
               </Node>
-            </Node>
-            <Node name="SightingData.Api" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="DataFiles" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ex</Value>
         </State>
       </Pad>
     </Pads>
@@ -50,13 +51,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/Services/TelematricsService.cs" relfile="SighthingData/Services/TelematricsService.cs" line="27" column="1" />
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/ViewModels/HeatMapPageViewModel.cs" relfile="SighthingData/ViewModels/HeatMapPageViewModel.cs" line="16" column="1" />
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/ViewModels/HeatMapPageViewModel.cs" relfile="SighthingData/ViewModels/HeatMapPageViewModel.cs" line="14" column="1" />
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/Services/TelematricsService.cs" relfile="SighthingData/Services/TelematricsService.cs" line="35" column="1" />
+      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/Services/TelematricsService.cs" relfile="SighthingData/Services/TelematricsService.cs" line="37" column="1" />
       <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SightingDataApi/Controllers/DeviceStatsController.cs" relfile="SightingDataApi/Controllers/DeviceStatsController.cs" line="72" column="1" />
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/Services/TelematricsService.cs" relfile="SighthingData/Services/TelematricsService.cs" line="25" column="1" />
-      <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/ViewModels/HeatMapPageViewModel.cs" relfile="SighthingData/ViewModels/HeatMapPageViewModel.cs" line="21" column="1" />
       <Breakpoint file="/Users/mogomotsimodise/Documents/GitHub/Teleamatics/SighthingData/SighthingData/ViewModels/BluetoothDevicesPageViewModel.cs" relfile="SighthingData/ViewModels/BluetoothDevicesPageViewModel.cs" line="83" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -68,5 +64,5 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.SighthingData.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.MQK9K20A08901420" />
+  <MonoDevelop.Ide.ItemProperties.SighthingData.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
 </Properties>

@@ -15,7 +15,8 @@ namespace SighthingData
         protected override async void OnInitialized()
         {
             InitializeComponent();
-             await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.BLUETOOTH_DEVICES_PAGE}");
+            await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.BLUETOOTH_DEVICES_PAGE}");
+            //await NavigationService.NavigateAsync($"{Pages.NAVIAGATION_PAGE}/{Pages.HEATMAP_PAGE}");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
